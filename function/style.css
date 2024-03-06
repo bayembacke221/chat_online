@@ -1,0 +1,24 @@
+input {
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.page {
+    display: none;
+}
+
+.page-num {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.active {
+    color: white;
+}
